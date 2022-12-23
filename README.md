@@ -1,2 +1,42 @@
 # GIT
-GIT Repository
+
+
+
+### Syllabus
+
+
+### Introduction
+
+1. The Need and What is a version control system ?
+2. Creation of git
+3. Git Staging areas
+
+### Commands
+
+1. git init
+2. git add
+3. git commit (amend, -m, -a)
+4. git status
+5. git log (-p, --stat, --graph, --oneline)
+6. git reset
+7. git merge
+8. git rebase
+9. git checkout (-b)
+10. git pull
+11. git push
+12. git diff
+
+### Moderate Commands
+
+1. git config
+2. git mv 
+3. git revert
+4. git branch
+5. git pull
+6. git remote update
+7. git review
+8. git tag
+9. cherry-pick
+10. git fetch
+11. git hooks
+12. git revert
