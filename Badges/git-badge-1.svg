@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="6cm"
+   height="6cm"
+   viewBox="0 0 60 60"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="gitbadge.svg"
+   inkscape:export-filename="gitbadge.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="136.11805"
+     inkscape:cy="156.62415"
+     inkscape:window-width="1364"
+     inkscape:window-height="738"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       sodipodi:type="star"
+       style="fill:#34926e;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="path2240"
+       inkscape:flatsided="false"
+       sodipodi:sides="6"
+       sodipodi:cx="39.597431"
+       sodipodi:cy="80.387077"
+       sodipodi:r1="29.575708"
+       sodipodi:r2="29.579285"
+       sodipodi:arg1="1.3121129"
+       sodipodi:arg2="1.3121335"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 47.163134,108.97873 3.26e-4,0.004 -28.544276,-7.74734 -0.003,0.002 -7.562737,-28.593739 -0.0033,-0.0015 20.981539,-20.846393 -3.26e-4,-0.0036 28.544276,7.747349 0.003,-0.0021 7.562737,28.593742 0.0033,0.0015 z"
+       transform="rotate(15,-89.166975,167.5577)"
+       inkscape:transform-center-x="-1.0183584e-06" />
+    <text
+       xml:space="preserve"
+       style="font-size:21.371px;font-family:Gila;-inkscape-font-specification:Gila;fill:#000000;fill-opacity:1;stroke:none;stroke-width:13.462;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       x="27.738903"
+       y="95.813103"
+       id="text3179"><tspan
+         sodipodi:role="line"
+         id="tspan3177"
+         style="fill:#000000;stroke:none;stroke-width:13.462"
+         x="27.738903"
+         y="95.813103">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:15.4881px;font-family:Gila;-inkscape-font-specification:Gila;fill:#000000;fill-opacity:1;stroke:none;stroke-width:9.75626;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       x="46.467987"
+       y="71.094147"
+       id="text3285"><tspan
+         sodipodi:role="line"
+         id="tspan3283"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';stroke-width:9.75626"
+         x="46.467987"
+         y="71.094147">1</tspan></text>
+    <rect
+       style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1.71236;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7924"
+       width="9.8133745"
+       height="1.585503"
+       x="78.890953"
+       y="78.415894"
+       ry="0" />
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7942"
+       width="49.466541"
+       height="12.487585"
+       x="32.981712"
+       y="119.03842"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.91915px;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4.98844;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       x="32.93922"
+       y="127.94642"
+       id="text8222"><tspan
+         sodipodi:role="line"
+         id="tspan8220"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Gila;-inkscape-font-specification:Gila;fill:#ffffff;stroke-width:4.98844"
+         x="32.93922"
+         y="127.94642">Technophile</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.10604px;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.2164;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       x="43.334961"
+       y="135.86932"
+       id="text8328"><tspan
+         sodipodi:role="line"
+         id="tspan8326"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Gila;-inkscape-font-specification:Gila;fill:#ffffff;stroke-width:3.2164"
+         x="43.334961"
+         y="135.86932">KanchiLUG</tspan></text>
+    <g
+       id="g8531"
+       transform="matrix(1.0806334,0,0,1.0806334,-111.46698,-96.185659)">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         id="rect8382"
+         width="39.693539"
+         height="39.693539"
+         x="155.29033"
+         y="-29.846024"
+         ry="5.8274384"
+         transform="rotate(45)" />
+      <path
+         id="rect6243"
+         style="fill:#ff2a2a;fill-opacity:1;stroke:none;stroke-width:1.66274;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         d="m 130.85278,92.793069 c -0.69977,0.0042 -1.39789,0.274964 -1.93143,0.813825 l -1.88734,1.906156 2.55203,2.526851 0.0166,-0.0175 0.008,0.008 a 1.7519953,1.7519953 0 0 1 2.08166,0.28481 1.7519953,1.7519953 0 0 1 0.30718,2.080459 l 3.0792,3.0488 a 1.7519953,1.7519953 0 0 1 2.08295,0.28613 1.7519953,1.7519953 0 0 1 0.0125,2.4776 1.7519953,1.7519953 0 0 1 -2.47802,0.0126 1.7519953,1.7519953 0 0 1 -0.44597,-1.7412 l -2.9026,-2.87398 0.66409,6.04623 a 1.7519953,1.7519953 0 0 1 0.81683,0.45567 1.7519953,1.7519953 0 0 1 0.0125,2.47758 1.7519953,1.7519953 0 0 1 -2.47801,0.0126 1.7519953,1.7519953 0 0 1 -0.0125,-2.47759 1.7519953,1.7519953 0 0 1 0.35651,-0.27587 l -0.72528,-6.6006 a 1.7519953,1.7519953 0 0 1 -0.75487,-0.4379 1.7519953,1.7519953 0 0 1 -0.45384,-1.715869 l -2.66645,-2.64015 -6.15066,6.211499 c -1.06708,1.07773 -1.05853,2.80418 0.0192,3.87127 l 9.05496,8.96563 c 1.07774,1.06707 2.80417,1.05852 3.87126,-0.0192 l 8.9652,-9.05493 c 1.06709,-1.07774 1.05854,-2.80419 -0.0192,-3.87129 l -9.05447,-8.965301 c -0.53886,-0.533548 -1.24007,-0.798097 -1.93983,-0.794634 z" />
+      <path
+         id="rect8505"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.04059;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         d="m 105.37186,116.98407 v 0.95602 c 0.22141,1.0796 0.75128,2.10985 1.59215,2.95072 l 8.58088,8.58087 h 30.73249 l 8.58087,-8.58087 c 1.08672,-1.08672 1.6548,-2.48927 1.70687,-3.90674 z" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.44319px;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4.0587;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         x="108.07305"
+         y="123.01797"
+         id="text8509"><tspan
+           sodipodi:role="line"
+           id="tspan8507"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Gila;-inkscape-font-specification:Gila;fill:#ffffff;stroke-width:4.0587"
+           x="108.07305"
+           y="123.01797">Technophile</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.15622px;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.24801;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         x="134.77713"
+         y="127.65399"
+         id="text8516"><tspan
+           sodipodi:role="line"
+           id="tspan8514"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Gila;-inkscape-font-specification:Gila;fill:#ffffff;stroke-width:3.24801"
+           x="134.77713"
+           y="127.65399">2023</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.66049px;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.30582;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         x="120.60488"
+         y="132.71716"
+         id="text8520"><tspan
+           sodipodi:role="line"
+           id="tspan8518"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Gila;-inkscape-font-specification:Gila;fill:#000000;stroke-width:2.30582"
+           x="120.60488"
+           y="132.71716">KanchiLUG</tspan></text>
+    </g>
+  </g>
+</svg>
